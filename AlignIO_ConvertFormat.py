@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Convert DNA alignments between BioPython-supported formats.
+Convert DNA or amino-acid (AA) alignments between BioPython-supported formats.
 dr.mark.schultz@gmail.com
 github schultzm
 20160624_1120
